@@ -279,3 +279,10 @@ $2 added to Alice's account
 BANK: balance Alice
 $102
 ```
+
+---
+
+
+## Author
+**Felix Gu**
+[LinkedIn](https://www.linkedin.com/in/felix-gu/) • [GitHub](https://github.com/f-gu12)
